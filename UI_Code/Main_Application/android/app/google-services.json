@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402895983316",
+    "firebase_url": "https://dbtrials-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dbtrials",
+    "storage_bucket": "dbtrials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402895983316:android:894eb3951a65eb9b19e141",
+        "android_client_info": {
+          "package_name": "com.example.roadmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402895983316-ndop4rt0qf5lpqa9ra7doeve2q54lplk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmiBPXsaBc-GBZCWQttIyWIIdSDhATfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402895983316-ndop4rt0qf5lpqa9ra7doeve2q54lplk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

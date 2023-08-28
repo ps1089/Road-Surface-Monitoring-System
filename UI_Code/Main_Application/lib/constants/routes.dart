@@ -1,0 +1,1 @@
+const mapRoute = '/maproute/';
