@@ -1,0 +1,17 @@
+Project Name:
+Crowd sensing Road Surface Data with Geospatial Visualization for Augmenting Navigation and Telemetry of Ground Vehicles
+
+
+Team Members:
+
+1. Keyur Kulkarni 
+
+2. Jangala Sai Keerthana
+
+3. Paras Shah
+
+4. Rohan Chaudhari
+
+Project Description:
+Create a system that measures and analyzes information about the
+condition of the road surface to assist vehicles in navigation.
